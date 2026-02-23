@@ -3,9 +3,7 @@
 
 # Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
-
 # Apparatus Required:
-
 SI.no	Apparatus	     Range	Type	Quantity
 1	    Volt meter	     (0-300)V	MC	1
 2	    Ammeter	         (0-2.5)A	MC	1
@@ -15,17 +13,12 @@ SI.no	Apparatus	     Range	Type	Quantity
 6	    Connecting wires	-	-	As required
 
 Fuse rating calculation for field and armature:
-
 No load test
-
 10 % of rated current (full load current)
-
 Load test
-
 125 % of rated current (full load current)
 
 # Precautions:
-
 1.   Motor side field rheostat should be kept at minimum resistance position.
 2.   Generator side field rheostat should be kept at maximum resistance position.
 3.   Starter should be in off position before switching on the supply.
@@ -39,7 +32,6 @@ Load test
 5.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 # Procedure for Load test:
-
 1.   Connections are given as per the circuit diagram
 2.   The prime mover is started with the help of three point starter and it is made to run at rated speed when the generator is disconnected from the load by DPST switch 2.
 3.   By varying the generator field rheostat gradually, the rated voltage [Eg] is obtained.
@@ -51,14 +43,12 @@ Load test
 # Circuit diagram:
 Open Circuit Characteristics:
 ![alt text](<WhatsApp Image 2026-02-21 at 10.58.55 PM (1).jpeg>)
-
 Load Circuit Characteristics:
 ![alt text](<WhatsApp Image 2026-02-21 at 10.59.29 PM.jpeg>)
 
 # Diagram:
 Open Circuit Characteristics:
 ![alt text](<Screenshot 2026-02-21 231749.png>)
-
 Load Circuit Characteristics:
 ![alt text](<Screenshot 2026-02-12 233805.png>)
 ![alt text](<Screenshot 2026-02-12 233831.png>)
@@ -66,24 +56,20 @@ Load Circuit Characteristics:
 # Tabulation:
 Open Circuit Characteristics:
 ![alt text](<WhatsApp Image 2026-02-21 at 11.20.17 PM.jpeg>)
-
 Load Circuit Characteristics:
 ![alt text](<WhatsApp Image 2026-02-21 at 11.20.30 PM (1).jpeg>)
 
 # Model graph:
 Open Ciruit Characteristics:
 ![alt text](<WhatsApp Image 2026-02-21 at 10.59.53 PM.jpeg>)
-
 Load Circuit Characteristics:
 ![alt text](<WhatsApp Image 2026-02-21 at 11.00.16 PM.jpeg>)
 
 # Graph:
 Open Circuit Characteristics:
 ![alt text](<WhatsApp Image 2026-02-23 at 7.47.36 PM - Copy.jpeg>)
-
 Load Circuit Characteristics:
 ![alt text](<WhatsApp Image 2026-02-23 at 7.47.07 PM.jpeg>)
 
- 
 # Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
